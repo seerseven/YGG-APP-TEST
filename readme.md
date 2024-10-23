@@ -7,19 +7,25 @@ A CLI tool to quickly set up boilerplate templates for your projects.
 
 ## Installation
 
-1. **Clone the Repository**  
+1. **Clone the Repository**
+    
     Download the repository from GitHub:
+
    ```bash
    git clone <your-repository-url>
    cd <your-repository-folder>
    ```
 2. **Install Dependencies**
+    
     Inside the project folder, run:
+
    ```bash
    npm install
    ```
 3. **Link the Package Locally**
+    
     Use npm link to register the package globally on your machine:
+
    ```bash
    npm link
    ```
