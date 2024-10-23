@@ -1,6 +1,3 @@
-markdown
-Copy code
-
 # YGG Boilerplate Installer
 
 A CLI tool to quickly set up boilerplate templates for your projects.
