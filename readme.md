@@ -12,10 +12,9 @@ A CLI tool to quickly set up boilerplate templates for your projects.
    ```bash
    git clone <your-repository-url>
    cd <your-repository-folder>
-   Install Dependencies
-   Inside the project folder, run:
    ```
-2. **Install the Repository**  
+2. **Install Dependencies**
+   Inside the project folder, run:
    ```bash
    npm install
    ```
