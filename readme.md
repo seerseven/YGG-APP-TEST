@@ -16,16 +16,17 @@ A CLI tool to quickly set up boilerplate templates for your projects.
    Inside the project folder, run:
    ```
 2. **Install the Repository**  
-```bash
-npm install
-```
-2. **Link the Package Locally**
+   ```bash
+   npm install
+   ```
+3. **Link the Package Locally**
    Use npm link to register the package globally on your machine:
-```bash
-npm link
-```
+   ```bash
+   npm link
+   ```
 
-##Usage
+## Usage
+
 To create a new project with the selected boilerplate, use the following command:
 
 ```bash
