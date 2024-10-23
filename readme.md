@@ -14,12 +14,12 @@ A CLI tool to quickly set up boilerplate templates for your projects.
    cd <your-repository-folder>
    ```
 2. **Install Dependencies**
-   Inside the project folder, run:
+    Inside the project folder, run:
    ```bash
    npm install
    ```
 3. **Link the Package Locally**
-   Use npm link to register the package globally on your machine:
+    Use npm link to register the package globally on your machine:
    ```bash
    npm link
    ```
