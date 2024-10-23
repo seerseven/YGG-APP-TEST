@@ -27,7 +27,7 @@ A CLI tool to quickly set up boilerplate templates for your projects.
 
 ## Usage
 
-To create a new project with the selected boilerplate, use the following command:
+To create a new project, use the following command:
 
 ```bash
 ygg-test my-new-app
